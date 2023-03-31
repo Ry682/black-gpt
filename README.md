@@ -14,11 +14,4 @@ ChatGPT-3 on the terminal 🕶
 ```py
 openai.api_key = "OPENAI API KEY"
 ```
-
-<br>
-
-### ❔ Running
-Open windows terminal and type "black"
-
-
-<br>
+6. Open Windows Terminal and type "black" and enjoy
